@@ -8,3 +8,4 @@ public class HolaMundo {                            //Declaro la clase con el mi
         System.out.println("Hola Mundo");           //Imprime Hola Mundo y hace un salto de linea 
     }
 }
+
