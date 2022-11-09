@@ -31,4 +31,4 @@ public class Imprimir {
         System.out.printf("%.1f/%s = %.1f\n", b, a, resultado);                         //Ejercicio 6
     }
 }
->>>>>>> 03e7afb37766d106b591b1077c574aa5242031e8
+

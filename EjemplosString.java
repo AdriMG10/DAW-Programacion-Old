@@ -26,8 +26,6 @@ public class EjemplosString {
         //Imprimir 6.3\2 = 1.5
         System.out.printf("%.1f\\%s = %.1f\n", c, a, resultado2);
 
-        //
-        
-    }
-    
+        //       
+    } 
 }
