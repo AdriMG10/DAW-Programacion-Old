@@ -1,7 +1,7 @@
 public class EjemploFactorial {
     public static void main(String[] args) {
         
-        final int num = 3;
+        final int num = 4;
         int resultado = 1;
 
         for (int i = num; i > 0; i--) 
