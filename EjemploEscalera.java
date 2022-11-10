@@ -1,4 +1,4 @@
-public class EjemploImprimeAsterisco {
+public class EjemploEscalera {
     public static void main(String[] args) {
         
         String asterisco = "*";
