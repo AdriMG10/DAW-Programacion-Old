@@ -6,7 +6,6 @@ public class BucleAleatorioBreak {                                  //No sé hac
         
         int numrandom = (int)Math.floor(Math.random()*MAX);
 
-        String no = " no es el número"; 
         String si = " es el número!";
  
         for (int i = numrandom; i != SALIR; i = numrandom)
