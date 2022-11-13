@@ -20,8 +20,10 @@ public class practica2 {
         esprimo = false;
 
     for (int x = 2; x < randomNumber/2; x++) {                              //Bucle for desde el 2 hasta la mitad del número random
-        if (randomNumber % x == 0)                                          //Comprueba si número random es divisible entre los parámetros del bucle for
+        if (randomNumber % x == 0) {                                        //Comprueba si número random es divisible entre los parámetros del bucle for
             esprimo = false;                                                //Si el número random es divisible, el booleano (esprimo) es falso
+            break;                                                          //Y sale del bucle
+        }
     }
 
     if (esprimo == false)                                                   //Si esprimo es falso:
